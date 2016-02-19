@@ -1,5 +1,6 @@
 /**
  * Created by tobby on 16/2/18.
+ * 大整数加法. 单向链表实现.
  */
 public class _4_add_two_numbers_1 {
     public static class ListNode {
